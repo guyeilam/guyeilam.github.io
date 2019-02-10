@@ -1,19 +1,21 @@
 /*
-	Overflow by HTML5 UP
+	Identity by HTML5 UP
 	html5up.net | @ajlkn
 	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
 */
 
-/* Header */
+/* Basic */
 
-	body.is-preload #header {
-		opacity: 1;
+	body:after {
+		display: none;
 	}
 
-		body.is-preload #header footer {
-			-moz-transform: none;
-			-webkit-transform: none;
-			-ms-transform: none;
-			transform: none;
-			opacity: 1;
-		}
+/* Main */
+
+	#main {
+		-moz-transform: none !important;
+		-webkit-transform: none !important;
+		-ms-transform: none !important;
+		transform: none !important;
+		opacity: 1 !important;
+	}
