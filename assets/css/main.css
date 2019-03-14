@@ -4169,3 +4169,8 @@ input, select, textarea {
   transform: scale(1.1);
   transition: 0.1s ease-in-out;
 }
+
+.logo img {
+  width: 250px;
+  height: 250px;
+}
