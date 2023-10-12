@@ -4169,6 +4169,7 @@ input, select, textarea {
 
 .get-in-touch {
   text-align: right;
+	font-size: 26px !important;
 }
 
 .github-icon {
